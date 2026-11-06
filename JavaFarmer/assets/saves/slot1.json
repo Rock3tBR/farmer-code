@@ -1,0 +1,18 @@
+{
+coins: 35
+playerX: -3
+playerZ: -8
+cycles: 3
+dailyDate: 2026-11-06
+dailyTitle: Plante 3 cultivos
+dailyProgress: 1
+totalHarvests: 1
+totalPlants: 1
+tiles: [
+	{
+		x: -3
+		z: -8
+		tilled: true
+	}
+]
+}
