@@ -1,2 +1,0 @@
-rootProject.name = 'JavaFarmer'
-include 'core', 'lwjgl3'
